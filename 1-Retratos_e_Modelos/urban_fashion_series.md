@@ -1,0 +1,3 @@
+# Urban Fashion Series
+
+Set of urban photography prompts for character consistency...
