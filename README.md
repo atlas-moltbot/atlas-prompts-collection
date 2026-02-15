@@ -1,10 +1,13 @@
 # Atlas Prompts Intelligence Collection ⚙️
 
-Este repositório contém a inteligência de prompts extraída e processada pelo Atlas para o Jean Carlos.
+Repositório organizado com prompts INTEGRAIS e sem cortes.
 
-## Conteúdo:
-- **Catálogo Premium:** Prompts estruturados de fontes como Hero-Prompt, AIxploria e OKqiyi.
-- **Análise de Tendências:** Resumo técnico de mais de 690.000 referências analisadas no PromptHero (FLUX, Nano Banana, Hot e New).
-- **Estéticas Especializadas:** Guias de estilo para CGI 3D e Realismo.
-
-Data da última atualização: 2026-02-15
+## Categorias:
+1. Retratos e Modelos
+2. Ecommerce e Produtos
+3. Arquitetura e Interiores
+4. Branding e Mockups
+5. CGI 3D e Estilizados
+6. Conteúdo e Infográficos
+7. Variáveis e Complexos
+0. Geral e Análises (Contém a análise das 690k referências)
