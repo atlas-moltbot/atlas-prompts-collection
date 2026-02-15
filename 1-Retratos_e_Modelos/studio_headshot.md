@@ -1,3 +1,0 @@
-# Studio Headshot
-
-Ultra realistic studio portrait, grey backdrop...

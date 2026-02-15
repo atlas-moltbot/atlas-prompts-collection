@@ -1,3 +1,0 @@
-# Recipe Infographic
-
-Modern recipe infographic generator with glassmorphism...

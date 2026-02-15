@@ -1,3 +1,0 @@
-# Perfume Minimal
-
-Perfume bottle on stone podium, floating droplets...
