@@ -4,7 +4,7 @@ Total de Fontes Analisadas: ~150.000 prompts
 
 ---
 
-## 1. Nano Banana Pro (Aesthetic Thinking)
+1. Nano Banana Pro (Aesthetic Thinking)
 **Fonte:** [PromptHero - Nano Banana](https://prompthero.com/nano-banana-prompts) | [AIxploria](https://www.aixploria.com/en/nano-banana-prompt-list-free/)
 **Total Analisado:** ~20.700 prompts + 25 Premium Templates.
 
@@ -14,7 +14,7 @@ Focado em aproveitar a capacidade de raciocínio (Thinking) do Gemini 3. Os prom
 
 ---
 
-## 2. FLUX (Photorealistic & Complex)
+2. FLUX (Photorealistic & Complex)
 **Fonte:** [PromptHero - FLUX](https://prompthero.com/flux-prompts)
 **Total Analisado:** ~107.800 prompts.
 
@@ -24,7 +24,7 @@ O estado da arte em realismo e integração de texto. Foca em imperfeições da 
 
 ---
 
-## 3. Hot & Trending (Market Vibe)
+3. Hot & Trending (Market Vibe)
 **Fonte:** [PromptHero - Hot](https://prompthero.com/hot)
 **Total Analisado:** ~16.900 prompts.
 
@@ -34,7 +34,7 @@ O que está gerando mais engajamento agora. Estilo "Instagram Model", editoriais
 
 ---
 
-## 4. Vibrant Stylized Dimension (CGI 3D)
+4. Vibrant Stylized Dimension (CGI 3D)
 **Fonte:** [OKqiyi](https://okqiyi.com/vibrant-stylized-dimension/)
 **Total Analisado:** Estruturas de cenários monocromáticos saturados.
 
