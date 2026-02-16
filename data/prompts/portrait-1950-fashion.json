@@ -1,0 +1,12 @@
+{
+  "id": "portrait-1950-fashion",
+  "name": "1950s High-Fashion Editorial",
+  "category": "portrait",
+  "tags": ["vintage", "fashion", "film-grain"],
+  "prompt": "1950s high-fashion editorial, model in vintage Dior, grain film, elegant lighting, studio setting",
+  "parameters": {
+    "aspect_ratio": "4:5",
+    "model": "gemini-3-pro-image",
+    "guidance": 7.5
+  }
+}
