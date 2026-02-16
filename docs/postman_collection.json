@@ -1,0 +1,89 @@
+{
+	"info": {
+		"_postman_id": "atlas-hub-collection",
+		"name": "Atlas IA Prompt Hub",
+		"description": "Collection para interagir com o Hub de Prompts do Atlas na Hostinger.",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Listar Prompts",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "ATLAS_HUB_SECRET_2026",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://darkorchid-tapir-909646.hostingersite.com/hub/api/v1/query.php?type=prompts",
+					"protocol": "https",
+					"host": [
+						"darkorchid-tapir-909646",
+						"hostingersite",
+						"com"
+					],
+					"path": [
+						"hub",
+						"api",
+						"v1",
+						"query.php"
+					],
+					"query": [
+						{
+							"key": "type",
+							"value": "prompts"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Executar Prompt com Variáveis",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "X-API-KEY",
+						"value": "ATLAS_HUB_SECRET_2026",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"subject\": \"Cyberpunk Samurai\"\n}"
+				},
+				"url": {
+					"raw": "https://darkorchid-tapir-909646.hostingersite.com/hub/api/v1/execute.php?id=portrait-1950-fashion",
+					"protocol": "https",
+					"host": [
+						"darkorchid-tapir-909646",
+						"hostingersite",
+						"com"
+					],
+					"path": [
+						"hub",
+						"api",
+						"v1",
+						"execute.php"
+					],
+					"query": [
+						{
+							"key": "id",
+							"value": "portrait-1950-fashion"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
